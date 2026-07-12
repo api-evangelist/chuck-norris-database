@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www.icndb.com/api/
 common:
+  - type: DomainSecurity
+    url: security/chuck-norris-database-domain-security.yml
   - type: Website
     url: http://www.icndb.com/api/
   - type: PublicAPIsListing
